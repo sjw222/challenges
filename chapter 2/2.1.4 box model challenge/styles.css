@@ -1,0 +1,12 @@
+.shape{
+	padding:10px 20px;
+	background-color:gray;
+	border:2px dotted;
+	width:200px;
+}
+.box1{
+	margin-bottom:20px;
+}
+.box2{
+	margin-top:10px;
+}

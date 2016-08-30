@@ -1,0 +1,18 @@
+.box{
+	width:150px;
+	height:150px;
+	padding-right:20px;
+	padding-bottom:20px;
+
+}
+.row1{
+	display:inline-block;
+}
+.row2{
+	float:left;
+}
+.row3{
+	position:fixed;
+	bottom:246px;
+	left:8px;
+}
