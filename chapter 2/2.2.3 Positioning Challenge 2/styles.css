@@ -1,0 +1,32 @@
+.navbar{
+	background-color:yellow;
+	position:fixed;
+	width:95%;
+	height:20px;
+	margin-bottom:30px;
+}
+.banner{
+	background-color:salmon;
+	margin-top:10px;
+	margin-left:159px;
+	width:65%;
+	height:100px;
+}
+.sidebar{
+	background-color:blue;
+	float:left;
+	width:147px;
+	height:400px;
+	margin-right:60px;
+	margin-top:7px;
+}
+.contentbox{
+	background-color:green;
+	display:inline-block;
+	height:120px;
+	width:120px;
+	margin-top:3px;
+}
+.row1,.row2{
+	margin-left:300px;
+}
