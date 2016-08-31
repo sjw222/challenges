@@ -15,7 +15,7 @@
 .sidebar{
 	background-color:blue;
 	float:left;
-	width:147px;
+	width:12%;
 	height:400px;
 	margin-right:60px;
 	margin-top:7px;
@@ -24,9 +24,9 @@
 	background-color:green;
 	display:inline-block;
 	height:120px;
-	width:120px;
+	width:15%;
 	margin-top:3px;
 }
 .row1,.row2{
-	margin-left:300px;
+	margin-left:256px;
 }
