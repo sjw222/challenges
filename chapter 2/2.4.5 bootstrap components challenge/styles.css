@@ -1,0 +1,44 @@
+h1{
+	margin-right:14px;
+}
+.jumbotron {
+    margin-bottom: 0px;
+	background-image: url(img/coffee.jpg);
+    height: 100%;
+    background-size: cover;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+    text-align:right;
+}
+.navbar{
+	/*background-color:#B1BFF0;*/
+	background-color:#782D09;
+	color:white;
+}
+.active{
+	background-color:#B1BFF0;
+}
+.btn{
+
+	margin-right:14px;
+}
+.nav-pills{
+	margin-top:4px;
+}
+.glyphicon-th-list{
+	margin-right:2px;
+}
+.navbar-default .navbar-brand {
+	color:white;
+}
+.test-page-title{
+	text-align:center;
+}
+.row{
+	margin-top:30px;
+	margin-left:60px;
+	margin-right:60px;
+}
+a{
+		color:white;
+}
