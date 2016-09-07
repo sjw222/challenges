@@ -1,0 +1,27 @@
+.row {
+	padding: 10px 20px 20px 0px;
+}
+
+.col-md-3, .col-sm-6 {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.caption {
+	position: absolute;
+	background-color: #FFFFFF;
+	bottom: 60px;
+	left: 30px;
+	padding: 5px;
+	margin-left: -15px;
+	color: gray;
+	letter-spacing: 2px;
+
+}
+
+/*notice the difference when I add the below styling.
+looks better if you're going to be thinking of responsive design!
+otherwise everything looks great.*/
+img {
+	width:100%;
+}
