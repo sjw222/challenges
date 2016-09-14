@@ -1,0 +1,50 @@
+p{
+	font-size: 14px;
+}
+.row{
+	margin-left:15%;
+	width:100%;
+}
+.navbar-default .navbar-nav>li>a{
+	color:#F06A00;
+}
+.jumbotron{
+	color:white;
+	text-align:center;
+	background-image: url(../img/img-hero-1.png);
+    height: 100%;
+    background-size: cover;
+    margin-top:0px;
+
+}
+.search{
+	border-radius:0px;
+}
+.btn{
+	background-color:#F06A00;
+	border:none;
+	border-radius:0px;
+}
+.input-group{
+	width:50%;
+	text-align:center;
+}
+.navbar-default{
+	margin-bottom:0px;
+	background-color:white;
+}
+.carousel-caption:
+{
+	top:20%;
+}
+.second-nav{
+	position:relative;
+	border-radius:0px;
+}
+.second-nav>li{
+		color:#777;
+}
+.second-nav>li>a:active{
+	text-decoration:underline;
+	color:#F06A00;
+}
